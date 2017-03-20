@@ -1,3 +1,13 @@
+/*
+** extern.h for extern in /home/marwane/Projets/Epitech/C/PSU/PSU_2016_philo/includes
+** 
+** Made by Marwane
+** Login   <marwane.khsime@epitech.eu>
+** 
+** Started on  Sun Mar 19 12:37:32 2017 Marwane
+** Last update Sun Mar 19 12:37:33 2017 Marwane
+*/
+
 #ifndef __LIBRICEFEREE_EXTERN__
 # define __LIBRICEFEREE_EXTERN__
 
